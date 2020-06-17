@@ -10,13 +10,8 @@
 
 # Installation
 
-Python 3
 ```
-pip install -U textblob
-python -m textblob.download_corpora
-
 sudo apt install python3-pip
-pip install keras
 pip install pandas
 pip install sklearn
 pip install matplotlib
