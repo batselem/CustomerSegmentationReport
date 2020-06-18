@@ -30,7 +30,7 @@ There are a notebook and data folder in this github repository available here. N
 The source code can be found at https://github.com/batselem/CustomerSegmentationReport.
 
 # Results
-The main findings of the code can be found at the post available https://medium.com/@batselem/customer-segmentation-8682c201581f.
+The main findings of the code can be found at the blog post available https://medium.com/@batselem/customer-segmentation-8682c201581f.
 
 # Acknowledgements
 Must give credit to Udacity.
