@@ -27,7 +27,7 @@ Which individuals are most likely to be customers of the company?
 There are a notebook and data folder in this github repository available here. Notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.
 
 # Results
-The main findings of the code can be found at the post available [here](https://medium.com/@batselem/customer-segmentation-8682c201581f).
+The main findings of the code can be found at the post available [here](https://medium.com/@batselem/customer-segmentation-8682c201581f) https://medium.com/@batselem/customer-segmentation-8682c201581f.
 
 # Acknowledgements
 Must give credit to Udacity.
